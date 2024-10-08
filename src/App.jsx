@@ -39,7 +39,7 @@ function App() {
         <h1 className="text-4xl font-bold text-white mb-8">Password Generator</h1>
         <div>
           <input
-            className="py-3 px-3 bg-white text-start mr-3 rounded-lg w-96"
+            className="py-3 px-3 bg-white text-start mr-3 rounded-lg w-[500px]"
             type="text"
             value={password}
             readOnly
